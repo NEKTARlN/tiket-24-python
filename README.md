@@ -22,3 +22,5 @@
 (2, 0)
 (2, 1)
 (2, 2)
+
+<img width="928" height="335" alt="image" src="https://github.com/user-attachments/assets/1695a219-f231-4d1b-aae9-1a69efd4bcc2" />
